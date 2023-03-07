@@ -1,0 +1,22 @@
+
+body{
+    background-image: url(../images/pic1.jpg);
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+    background-size:auto
+}
+.question{
+    margin: auto;
+    margin-top: 150px;
+    background-color: plum;
+    border-radius: 20px;
+    outline: 17px solid rgb(216, 169, 216);
+    border: 4px dashed purple;
+    width: 50vw;
+    
+
+}
+.mainheading{
+    font-family: 'Lora', serif;
+}
+
